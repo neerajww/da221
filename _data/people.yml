@@ -1,0 +1,14 @@
+instructors:
+  - name: Neeraj Kumar Sharma
+    profile_pic: /_images/pp/neeks_03_2018.png
+    webpage: https://neerajww.github.io
+
+  - name: Arghyadip Roy
+    profile_pic: /_images/pp/Arghyadip_Roy.jpg
+    webpage: https://sites.google.com/view/arghyadiproy/home
+
+teaching_assistants:
+  - name: Coming Soon
+    profile_pic: /_images/pp/teaching_owl.png  
+
+  

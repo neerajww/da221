@@ -2,42 +2,29 @@
 layout: home
 ---
 ## Course Contents
-**Part-1**: Foundations of Signal Processing
-1. Introduction to (recorded) signals
-2. Human perception of signals: hearing, vision and brain
-3. Signal representations: continuous, Fourier series, Taylor series, sampling, discrete-time, and basis functions
-4. DSP Methods: LTI system, convolution, DFT, DCT
+**Part-1**: AI: Past, Present and Future
+1. Defining AI
+2. Evolution of AI
 
-**Part-2**: Advance Signal Processing
+**Part-2**: Modeling and Executing Intelligence
+1. Intelligent Agents
+2. Solving problems by Searching and types of Searches
+3. Planning, Acting, and Knowledge Representations 
+4. Quantifying uncertainty
 
-1. Time-frequency analysis
-2. Spectral Estimation, Filtering, artifacts, and Kalman Filtering
-3. Compressive Sensing
-
-**Part-3**: Machine Learning on Signals
-
-1. Dictionary Learning
-2. Dimensionality Reduction: Concept and approaches
-3. Modelling: What is a model? Why use a model? What are types of models?
-4. Model fitting using deterministic and probabilistic approaches
-5. Classifiers: Logistic regression to DNNs, and ending at CNNs
-
-**Part-4**: Hands-on Development & Research
-
-1. Project: Pursued by students - Runs through out the course - Topics: Theory and Applications of SP and ML
-2. Paper: Pursued by students - Paper Reading and Understanding - Critiquing through Presentation
+**Part-3**: 
+11. Probabilistic Reasoning
+12. Reinforcement Learning (RL)
 
 ## Helpful Pre-requisites
-- Curiosity about signals, and building applications using them
-- Introduction to one or more subjects related to Random Process, Linear Algebra, and Signals & Systems
-- Familiarity with Python Programming or ready to learn parallely
+- Curiosity to understand what is AI?
 
 ## Logistics
 
-**Open Elective**: For B.Tech (3rd and 4th year)/ M.Tech Students/ Ph.D. Scholars
+**Core Course**: For B.Tech (4th Semester)
 
-**Class Room**: To be announced
+**Class Room**: Core 5, IIT Guwahati
 
-**Timings**: Slot B (Mon 10-10:55 AM, Thr 09-09:55 AM, and Fri 09-09:55 AM)<br>
+**Class Timings**: Slot A (Mon 09:00-09:55 AM, Tue 09:00-09:55 AM, and Wed 09:00-09:55 AM); Lab: Tue 08:00-08:55 AM<br>
 
 Please visit this page regularly for updated information on the course.<br>

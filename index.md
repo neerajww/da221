@@ -13,8 +13,12 @@ layout: home
 4. Quantifying uncertainty
 
 **Part-3**: 
-11. Probabilistic Reasoning
-12. Reinforcement Learning (RL)
+1. Probabilistic Reasoning
+2. Introduction to Reinforcement Learning (RL)
+3. Multi-armed Bandit & Applications
+4. TD Learning & Application
+5. Q Learning, Application & Policy Gradient
+
 
 ## Helpful Pre-requisites
 - Deeply intested in learning about AI.

@@ -17,11 +17,11 @@ layout: home
 12. Reinforcement Learning (RL)
 
 ## Helpful Pre-requisites
-- Curiosity to understand what is AI?
+- Deeply intested in learning about AI.
 
 ## Logistics
 
-**Core Course**: For B.Tech (4th Semester)
+**Core Course**: For B.Tech (4th Semester) students of Mehta Family School of Data Science and AI
 
 **Class Room**: Core 5, IIT Guwahati
 

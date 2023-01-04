@@ -1,6 +1,6 @@
 # Site settings
 course_name: DA221 Introduction to Artificial Intelligence
-course_description: "This course covers the basics of artificial intelligence. Moreover, reinforcement learning concepts are also covered to familiarize students with current advances in artificial intelligence."
+course_description: "This course will present an introduction to artificial intelligence with a focus on understanding, design, and implementation of  intelligent agents."
 course_semester: "Jan-May 2023"
 
 baseurl: "/da221" # the subpath of your site, e.g. /blog/

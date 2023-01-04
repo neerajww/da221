@@ -18,8 +18,8 @@
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
         {% if n.type %}
-            {% if n.type == 'lecture' %}                
-                {{ n.date }}: New Lecture is up: {{ n.title }}   <!-- KR added the date -->
+            {% if n.type == 'lecture' %}       
+                {{ n.date | date: "%b %d"}}: New Lecture is up: {{ n.title }}   <!-- KR added the date -->
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]

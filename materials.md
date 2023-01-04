@@ -6,6 +6,17 @@ permalink: /materials/
 
 <!--- {% include image.html url="/_images/cover2.jpg" width=175 align="right" %} -->
 
+## Textbook
+- S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 4th Edition, Pearson, 2020.
+- R.S. Sutton and A.G. Barto, Reinforcement Learning: An Introduction, 2nd Edition, MIT Press, 2018.
+- I. Bratko, PROLOG Programming for Artificial Intelligence, 4th Edition, Pearson, 2011.
+
+## Reference book
+- E. Rich and K. Knight, Artificial Intelligence, 3rd Edition, McGraw Hill, 2017.
+- D. Khemani, A First Course in Artificial Intelligence, 6th reprint Edition, McGraw-Hill Education, 2018.
+- [Chris Meyers, Prolog in Python](https://www.openbookproject.net/py4fun/prolog/intro.html), 2009.
+
+
 ## Research Papers
 - ["From So Simple a Beginning": Species of Artificial Intelligence, Nigel Shadbolt](https://direct.mit.edu/daed/article/151/2/28/110616/From-So-Simple-a-Beginning-Species-of-Artificial), Daedalus, 2022; 151 (2): 28–42.
 - ["On Computable Numbers, with an application to the Entscheidungsproblem", Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf), Proc. London Mathematical Soc., 1937.

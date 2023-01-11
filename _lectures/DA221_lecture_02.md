@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-01-05
-title: Lecture-2
+title: Lecture-02
 
 # optional
 # please use /static_files/notes directory to store notes
@@ -24,3 +24,8 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: other
 ---
+
+**Suggested Readings/Viewings:**
+- ["A Golden Decade of Deep Learning: Computing Systems and Applications", Jeffrey Dean](https://direct.mit.edu/daed/article/151/2/58/110623/A-Golden-Decade-of-Deep-Learning-Computing-Systems), Daedalus, 2022; 151 (2): 58–74 (Paper).
+- ["Genius Makers: The Mavericks Who Brought A.I. to Google, Facebook, and the World", Cade Metz](https://www.amazon.in/Genius-Makers-Mavericks-Brought-Facebook/dp/1524742678), Dutton, 2021 (Book).
+- ["AlphaGo - The Movie", Full award-winning documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y), YouTube (Video).

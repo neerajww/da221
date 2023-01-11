@@ -22,8 +22,8 @@ permalink: /materials/
 - ["On Computable Numbers, with an application to the Entscheidungsproblem", Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf), Proc. London Mathematical Soc., 1937.
 - ["Computing Machinery and Intelligence", Alan Turing](https://phil415.pbworks.com/f/TuringComputing.pdf), Mind, 1950.
 
-## Popular Science Articles
-- To be added.
+## Popular Science Books/Articles
+- ["Genius Makers: The Mavericks Who Brought A.I. to Google, Facebook, and the World", Cade Metz](https://www.amazon.in/Genius-Makers-Mavericks-Brought-Facebook/dp/1524742678), Dutton, 2021.
 
 ## Related MOOCs
 - [An Introduction to AI, Mausam](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz), IIT Delhi, NPTEL.

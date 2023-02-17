@@ -19,8 +19,8 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: /static_files/presentations/iitG_DA_221_lect_10.pdf
-      name: On board (link dummy)
+    - url: /static_files/presentations/dummy.pdf
+      name: On board (no slides)
     #- url: /static_files/presentations/lec.zip
     #  name: other
 ---

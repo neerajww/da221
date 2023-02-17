@@ -8,7 +8,7 @@ title: Lecture-02
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Review of breakthroughs and introducing intelligent agent concept"
+tldr: "Review of breakthroughs and introduction to AI agents"
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
 hide_from_announcments: false

@@ -8,7 +8,7 @@ title: Lecture-03
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "PEAS Framework: Performance, Environment, Actuators, Sensors"
+tldr: "PEAS Framework to build AI agents"
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
 hide_from_announcments: false

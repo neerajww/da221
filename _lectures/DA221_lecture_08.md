@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2023-01-11
-title: Lecture-04
+date: 2023-01-23
+title: Lecture-08
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Problem Solving by searching: Introduction"
+tldr: "Problem Solving by searching: Informed and beyond classical search"
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
 hide_from_announcments: false
@@ -19,7 +19,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: /static_files/presentations/iitG_DA221_lecture_04.pdf
+    - url: /static_files/presentations/iitG_DA_221_lect_08.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
     #  name: other

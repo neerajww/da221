@@ -25,5 +25,5 @@ links:
     #  name: other
 ---
 
-**Suggested Readings:**
-- ["Chapter 3: Solving Problems by Searching", AI a Modern Approach, S. Russel and R. Norvig](https://aima.cs.berkeley.edu/).
+<!-- **Suggested Readings:** -->
+<!-- - ["Chapter 3: Solving Problems by Searching", AI a Modern Approach, S. Russel and R. Norvig](https://aima.cs.berkeley.edu/). -->

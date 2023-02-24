@@ -20,10 +20,10 @@ links:
     #- url: /static_files/presentations/code.zip
     #  name: codes
     - url: /static_files/presentations/iitG_DA221_lect_12.pdf
-      name: slides (to add)
+      name: on board (no slides)
     #- url: /static_files/presentations/lec.zip
     #  name: other
 ---
 
 **Suggested Readings:**
-- ["Chapter 6: Logial Agents", AI a Modern Approach, S. Russel and R. Norvig](https://aima.cs.berkeley.edu/).
+- ["Chapter 7: Logial Agents (Sections 7.1 to 7.4)", AI a Modern Approach, S. Russel and R. Norvig](https://aima.cs.berkeley.edu/).

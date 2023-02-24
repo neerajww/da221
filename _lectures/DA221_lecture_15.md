@@ -19,7 +19,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: /static_files/presentations/iitG_DA221_lect_15.pdf
+    - url: /static_files/presentations/dummy.pdf
       name: on board (no slides)
     #- url: /static_files/presentations/lec.zip
     #  name: other
